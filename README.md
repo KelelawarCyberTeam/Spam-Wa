@@ -10,6 +10,7 @@
     $ pkg install python
     $ pkg install git
     $ git clone https://github.com/KelelawarCyberTeam/Spam-Wa
+    $ python -m pip install -r requirements.txt
     $ cd Spam-Wa
     $ python wa.py
     
